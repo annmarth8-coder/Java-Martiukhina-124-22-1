@@ -1,0 +1,292 @@
+{
+  "faculties": [
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 1 Dept 1 Group 1",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 1 Dept 1 Group 1",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 1 Dept 1 Group 1",
+              "head": {
+                "groupName": "Faculty 1 Dept 1 Group 1",
+                "firstName": "GroupHead1",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 1 Dept 1 Group 2",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 1 Dept 1 Group 2",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 1 Dept 1 Group 2",
+              "head": {
+                "groupName": "Faculty 1 Dept 1 Group 2",
+                "firstName": "GroupHead2",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            }
+          ],
+          "name": "Faculty 1 Dept 1",
+          "head": {
+            "groupName": "",
+            "firstName": "DeptHead1",
+            "lastName": "Lastname",
+            "middleName": "Middle",
+            "sex": "MALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 1 Dept 2 Group 1",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 1 Dept 2 Group 1",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 1 Dept 2 Group 1",
+              "head": {
+                "groupName": "Faculty 1 Dept 2 Group 1",
+                "firstName": "GroupHead1",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 1 Dept 2 Group 2",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 1 Dept 2 Group 2",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 1 Dept 2 Group 2",
+              "head": {
+                "groupName": "Faculty 1 Dept 2 Group 2",
+                "firstName": "GroupHead2",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            }
+          ],
+          "name": "Faculty 1 Dept 2",
+          "head": {
+            "groupName": "",
+            "firstName": "DeptHead2",
+            "lastName": "Lastname",
+            "middleName": "Middle",
+            "sex": "MALE"
+          }
+        }
+      ],
+      "name": "Faculty 1",
+      "head": {
+        "groupName": "",
+        "firstName": "FacultyHead1",
+        "lastName": "Lastname",
+        "middleName": "Middle",
+        "sex": "FEMALE"
+      }
+    },
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 2 Dept 1 Group 1",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 2 Dept 1 Group 1",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 2 Dept 1 Group 1",
+              "head": {
+                "groupName": "Faculty 2 Dept 1 Group 1",
+                "firstName": "GroupHead1",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 2 Dept 1 Group 2",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 2 Dept 1 Group 2",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 2 Dept 1 Group 2",
+              "head": {
+                "groupName": "Faculty 2 Dept 1 Group 2",
+                "firstName": "GroupHead2",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            }
+          ],
+          "name": "Faculty 2 Dept 1",
+          "head": {
+            "groupName": "",
+            "firstName": "DeptHead1",
+            "lastName": "Lastname",
+            "middleName": "Middle",
+            "sex": "MALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 2 Dept 2 Group 1",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 2 Dept 2 Group 1",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 2 Dept 2 Group 1",
+              "head": {
+                "groupName": "Faculty 2 Dept 2 Group 1",
+                "firstName": "GroupHead1",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "groupName": "Faculty 2 Dept 2 Group 2",
+                  "firstName": "Student1",
+                  "lastName": "Lastname1",
+                  "middleName": "Middle1",
+                  "sex": "MALE"
+                },
+                {
+                  "groupName": "Faculty 2 Dept 2 Group 2",
+                  "firstName": "Student2",
+                  "lastName": "Lastname2",
+                  "middleName": "Middle2",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Faculty 2 Dept 2 Group 2",
+              "head": {
+                "groupName": "Faculty 2 Dept 2 Group 2",
+                "firstName": "GroupHead2",
+                "lastName": "Lastname",
+                "middleName": "Middle",
+                "sex": "FEMALE"
+              }
+            }
+          ],
+          "name": "Faculty 2 Dept 2",
+          "head": {
+            "groupName": "",
+            "firstName": "DeptHead2",
+            "lastName": "Lastname",
+            "middleName": "Middle",
+            "sex": "MALE"
+          }
+        }
+      ],
+      "name": "Faculty 2",
+      "head": {
+        "groupName": "",
+        "firstName": "FacultyHead2",
+        "lastName": "Lastname",
+        "middleName": "Middle",
+        "sex": "FEMALE"
+      }
+    }
+  ],
+  "name": "National University",
+  "head": {
+    "groupName": "",
+    "firstName": "Ivan",
+    "lastName": "Petrov",
+    "middleName": "Sergeevich",
+    "sex": "MALE"
+  }
+}
